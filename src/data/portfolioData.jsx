@@ -22,7 +22,7 @@ export const education = [
   },
   {
     institution: "Udemy",
-    degree: "Cusro comlpeto de SpringBoot",
+    degree: "Curso completo de SpringBoot",
     duration: "Julh 2025 – Ago 2025",
   }
 ];
