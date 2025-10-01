@@ -9,7 +9,7 @@ export const personalInfo = {
   email: "luiamericobusiness@gmail.com",
   linkedin: "https://linkedin.com/in/luis-americo-reis",
   github: "https://github.com/oluiamerico",
-  resumeLink: "/AditiAryaResume.pdf", // Make sure your resume is in public/
+  resumeLink: "/curriculo.pdf", // Make sure your resume is in public/
   bio: "Minha missão é unir tecnologia e propósito para criar sistemas que entreguem valor real e impacto positivo.",
   // shortBio: "I build things for the web." // For Hero section
 };
